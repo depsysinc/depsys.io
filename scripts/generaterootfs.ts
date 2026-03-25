@@ -11,9 +11,10 @@ let header = `/*
  * Run 'yarn genrootfs' to regenerate
  * 
  */
-import { DSFilePerms, DSFileSystem, DSRAMFileSystem, DSIDirectory, DSInode } from "./dsFileSystem";
+import { DSFilePerms, DSFileSystem, DSIDirectory, DSInode } from "./dsFileSystem";
 import { DSIProcessFile } from "./filesystem/dsIProcessFile";
 import { DSIWebFile } from "./filesystem/dsIWebFile";
+import { DSRAMFileSystem } from "./filesystem/dsRAMFileSystem";
 
 `;
 
@@ -179,7 +180,7 @@ function generateFileBody(file: FileNode): string {
     curfile.chmod(DSFilePerms.rx());` : '';
     return `
     // Creating ${file.relPath}
-    curfile = new DSIWebFile(fs, ${file.sanitized});
+    curfile = fs.createInode(${file.sanitized}) as DSIWebFile;
     curdir.addfile("${file.name}", curfile);${permLine}
     `;
 }

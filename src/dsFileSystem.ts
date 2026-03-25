@@ -149,6 +149,8 @@ export abstract class DSFileSystem {
 
     abstract changed(inode: DSInode): void;
 
+    abstract createInode(): DSInode;
+
     fsck(): FSCKResults {
         const results: FSCKResults = {
             inodecount: 1,    // Include root directory
@@ -167,16 +169,6 @@ export abstract class DSFileSystem {
     }
 }
 
-export class DSRAMFileSystem extends DSFileSystem {
-    constructor() {
-        super();
-        this._root = new DSIDirectory(this, DSFilePerms.full());
-    }
-
-    added(inode: DSInode) { }
-    changed(inode: DSInode): void { }
-
-}
 
 /*
     File Permission Meanings
@@ -302,10 +294,6 @@ export abstract class DSInode {
         return this._fs;
     }
 
-    async filetype(): Promise<string> {
-        throw Error("operation not supported on filetype");
-    };
-
     contentAsText(): DSStream {
         throw new DSIFileError("operation not supported on filetype");
     }
@@ -409,10 +397,6 @@ export class DSIDirectory extends DSInode {
                 results.inodecount++;
             }
         });
-    }
-
-    async filetype(): Promise<string> {
-        return 'directory';
     }
 
     get fileinfo(): DSFileInfo {
@@ -552,6 +536,7 @@ export class DSIDirectory extends DSInode {
         this._filelist.push(
             new DSFileInfo(newfile, filename)
         );
+        this._fs.changed(this); //DSIDBFS hook
         return newfile;
     }
 }
