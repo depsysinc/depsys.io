@@ -119,48 +119,9 @@ import rootfs_base_data_man_pwd_dsmd from "./rootfs/base/data/man/pwd.dsmd";
 import rootfs_base_data_man_reset_dsmd from "./rootfs/base/data/man/reset.dsmd";
 import rootfs_base_data_man_sleep_dsmd from "./rootfs/base/data/man/sleep.dsmd";
 import rootfs_base_data_man_splash_dsmd from "./rootfs/base/data/man/splash.dsmd";
-import rootfs_site_data_site_avatars_posterized_globnobulous_png from "./rootfs/site/data/site/avatars/posterized_globnobulous.png";
-import rootfs_site_data_site_devlog_2025_01_30_20250130_dsmd from "./rootfs/site/data/site/devlog/2025-01-30/20250130.dsmd";
-import rootfs_site_data_site_devlog_2025_01_30_C64_png from "./rootfs/site/data/site/devlog/2025-01-30/C64.png";
-import rootfs_site_data_site_devlog_2025_01_30_Road_Toad_png from "./rootfs/site/data/site/devlog/2025-01-30/Road-Toad.png";
-import rootfs_site_data_site_devlog_2025_02_10_20250210_dsmd from "./rootfs/site/data/site/devlog/2025-02-10/20250210.dsmd";
-import rootfs_site_data_site_devlog_2025_03_01_20250301_dsmd from "./rootfs/site/data/site/devlog/2025-03-01/20250301.dsmd";
-import rootfs_site_data_site_devlog_2025_03_01_Signal11_png from "./rootfs/site/data/site/devlog/2025-03-01/Signal11.png";
-import rootfs_site_data_site_devlog_2025_03_02_20250302_dsmd from "./rootfs/site/data/site/devlog/2025-03-02/20250302.dsmd";
-import rootfs_site_data_site_devlog_2025_03_02_console_log_png from "./rootfs/site/data/site/devlog/2025-03-02/console.log.png";
-import rootfs_site_data_site_devlog_2025_03_16_20250316_dsmd from "./rootfs/site/data/site/devlog/2025-03-16/20250316.dsmd";
-import rootfs_site_data_site_devlog_2025_03_16_mainmenu_png from "./rootfs/site/data/site/devlog/2025-03-16/mainmenu.png";
-import rootfs_site_data_site_devlog_2025_03_16_modem_300_users_manual_front_png from "./rootfs/site/data/site/devlog/2025-03-16/modem_300_users_manual_front.png";
-import rootfs_site_data_site_devlog_2025_03_16_playarea_png from "./rootfs/site/data/site/devlog/2025-03-16/playarea.png";
-import rootfs_site_data_site_devlog_2025_08_26_20250826_dsmd from "./rootfs/site/data/site/devlog/2025-08-26/20250826.dsmd";
-import rootfs_site_data_site_devlog_2025_08_26_demo2_gif from "./rootfs/site/data/site/devlog/2025-08-26/demo2.gif";
-import rootfs_site_data_site_devlog_2025_08_26_ozzyforest_png from "./rootfs/site/data/site/devlog/2025-08-26/ozzyforest.png";
-import rootfs_site_data_site_devlog_2025_09_02_20250902_dsmd from "./rootfs/site/data/site/devlog/2025-09-02/20250902.dsmd";
-import rootfs_site_data_site_devlog_2025_09_02_UofT_png from "./rootfs/site/data/site/devlog/2025-09-02/UofT.png";
-import rootfs_site_data_site_devlog_2025_09_02_UofTcampus_png from "./rootfs/site/data/site/devlog/2025-09-02/UofTcampus.png";
-import rootfs_site_data_site_devlog_2026_01_25_20260125_dsmd from "./rootfs/site/data/site/devlog/2026-01-25/20260125.dsmd";
-import rootfs_site_data_site_devlog_2026_01_25_hyperbolicparaboloid_png from "./rootfs/site/data/site/devlog/2026-01-25/hyperbolicparaboloid.png";
-import rootfs_site_data_site_devlog_2026_01_25_orrery_gif from "./rootfs/site/data/site/devlog/2026-01-25/orrery.gif";
-import rootfs_site_data_site_devlog_2026_01_25_transferorbit_gif from "./rootfs/site/data/site/devlog/2026-01-25/transferorbit.gif";
-import rootfs_site_data_site_devlog_2026_01_30_20260130_dsmd from "./rootfs/site/data/site/devlog/2026-01-30/20260130.dsmd";
-import rootfs_site_data_site_devlog_2026_01_30_workingtransferorbit_gif from "./rootfs/site/data/site/devlog/2026-01-30/workingtransferorbit.gif";
-import rootfs_site_data_site_devlog_devlog_dsmd from "./rootfs/site/data/site/devlog/devlog.dsmd";
-import rootfs_site_data_site_devlog_entry_template_dsmd from "./rootfs/site/data/site/devlog/entry-template.dsmd";
-import rootfs_site_data_site_image_130x46_godot_png from "./rootfs/site/data/site/image/130x46_godot.png";
-import rootfs_site_data_site_image_181x64_godot_png from "./rootfs/site/data/site/image/181x64_godot.png";
-import rootfs_site_data_site_image_caterpillar_png from "./rootfs/site/data/site/image/caterpillar.png";
-import rootfs_site_data_site_page_DSADOS_dsmd from "./rootfs/site/data/site/page/DSADOS.dsmd";
-import rootfs_site_data_site_page_GODOT_dsmd from "./rootfs/site/data/site/page/GODOT.dsmd";
-import rootfs_site_data_site_page_about_dsmd from "./rootfs/site/data/site/page/about.dsmd";
-import rootfs_site_data_site_page_concursion_dsmd from "./rootfs/site/data/site/page/concursion.dsmd";
-import rootfs_site_data_site_page_dauntless_dsmd from "./rootfs/site/data/site/page/dauntless.dsmd";
-import rootfs_site_data_site_page_games_dsmd from "./rootfs/site/data/site/page/games.dsmd";
-import rootfs_site_data_site_page_index_dsmd from "./rootfs/site/data/site/page/index.dsmd";
-import rootfs_site_data_site_page_tech_dsmd from "./rootfs/site/data/site/page/tech.dsmd";
+import rootfs_base_etc_autoexec_dssh from "./rootfs/base/etc/autoexec.dssh";
 import rootfs_base_etc_deprecated_systems_incorporated_txt from "./rootfs/base/etc/deprecated_systems_incorporated.txt";
 import rootfs_base_etc_depsys_txt from "./rootfs/base/etc/depsys.txt";
-import rootfs_site_etc_autoexec_dssh from "./rootfs/site/etc/autoexec.dssh";
-import rootfs_site_etc_motd_txt from "./rootfs/site/etc/motd.txt";
 
 // BUILDROOTFS HEADER
 export function buildrootfs(): DSFileSystem {
@@ -743,270 +704,6 @@ export function buildrootfs(): DSFileSystem {
     curdir = dirstack.pop();
     // Exited data/man
         
-    // Traversing data/site
-    dirstack.push(curdir);
-    curdir = curdir.mkdir('site');
-    
-    // Traversing data/site/avatars
-    dirstack.push(curdir);
-    curdir = curdir.mkdir('avatars');
-    
-    // Creating data/site/avatars/posterized_globnobulous.png
-    curfile = fs.createInode(rootfs_site_data_site_avatars_posterized_globnobulous_png) as DSIWebFile;
-    curdir.addfile("posterized_globnobulous.png", curfile);
-    
-    curdir.chmod(DSFilePerms.rx());
-    curdir = dirstack.pop();
-    // Exited data/site/avatars
-        
-    // Traversing data/site/devlog
-    dirstack.push(curdir);
-    curdir = curdir.mkdir('devlog');
-    
-    // Traversing data/site/devlog/2025-01-30
-    dirstack.push(curdir);
-    curdir = curdir.mkdir('2025-01-30');
-    
-    // Creating data/site/devlog/2025-01-30/20250130.dsmd
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2025_01_30_20250130_dsmd) as DSIWebFile;
-    curdir.addfile("20250130.dsmd", curfile);
-    
-    // Creating data/site/devlog/2025-01-30/C64.png
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2025_01_30_C64_png) as DSIWebFile;
-    curdir.addfile("C64.png", curfile);
-    
-    // Creating data/site/devlog/2025-01-30/Road-Toad.png
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2025_01_30_Road_Toad_png) as DSIWebFile;
-    curdir.addfile("Road-Toad.png", curfile);
-    
-    curdir.chmod(DSFilePerms.rx());
-    curdir = dirstack.pop();
-    // Exited data/site/devlog/2025-01-30
-        
-    // Traversing data/site/devlog/2025-02-10
-    dirstack.push(curdir);
-    curdir = curdir.mkdir('2025-02-10');
-    
-    // Creating data/site/devlog/2025-02-10/20250210.dsmd
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2025_02_10_20250210_dsmd) as DSIWebFile;
-    curdir.addfile("20250210.dsmd", curfile);
-    
-    curdir.chmod(DSFilePerms.rx());
-    curdir = dirstack.pop();
-    // Exited data/site/devlog/2025-02-10
-        
-    // Traversing data/site/devlog/2025-03-01
-    dirstack.push(curdir);
-    curdir = curdir.mkdir('2025-03-01');
-    
-    // Creating data/site/devlog/2025-03-01/20250301.dsmd
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2025_03_01_20250301_dsmd) as DSIWebFile;
-    curdir.addfile("20250301.dsmd", curfile);
-    
-    // Creating data/site/devlog/2025-03-01/Signal11.png
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2025_03_01_Signal11_png) as DSIWebFile;
-    curdir.addfile("Signal11.png", curfile);
-    
-    curdir.chmod(DSFilePerms.rx());
-    curdir = dirstack.pop();
-    // Exited data/site/devlog/2025-03-01
-        
-    // Traversing data/site/devlog/2025-03-02
-    dirstack.push(curdir);
-    curdir = curdir.mkdir('2025-03-02');
-    
-    // Creating data/site/devlog/2025-03-02/20250302.dsmd
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2025_03_02_20250302_dsmd) as DSIWebFile;
-    curdir.addfile("20250302.dsmd", curfile);
-    
-    // Creating data/site/devlog/2025-03-02/console.log.png
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2025_03_02_console_log_png) as DSIWebFile;
-    curdir.addfile("console.log.png", curfile);
-    
-    curdir.chmod(DSFilePerms.rx());
-    curdir = dirstack.pop();
-    // Exited data/site/devlog/2025-03-02
-        
-    // Traversing data/site/devlog/2025-03-16
-    dirstack.push(curdir);
-    curdir = curdir.mkdir('2025-03-16');
-    
-    // Creating data/site/devlog/2025-03-16/20250316.dsmd
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2025_03_16_20250316_dsmd) as DSIWebFile;
-    curdir.addfile("20250316.dsmd", curfile);
-    
-    // Creating data/site/devlog/2025-03-16/mainmenu.png
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2025_03_16_mainmenu_png) as DSIWebFile;
-    curdir.addfile("mainmenu.png", curfile);
-    
-    // Creating data/site/devlog/2025-03-16/modem_300_users_manual_front.png
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2025_03_16_modem_300_users_manual_front_png) as DSIWebFile;
-    curdir.addfile("modem_300_users_manual_front.png", curfile);
-    
-    // Creating data/site/devlog/2025-03-16/playarea.png
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2025_03_16_playarea_png) as DSIWebFile;
-    curdir.addfile("playarea.png", curfile);
-    
-    curdir.chmod(DSFilePerms.rx());
-    curdir = dirstack.pop();
-    // Exited data/site/devlog/2025-03-16
-        
-    // Traversing data/site/devlog/2025-08-26
-    dirstack.push(curdir);
-    curdir = curdir.mkdir('2025-08-26');
-    
-    // Creating data/site/devlog/2025-08-26/20250826.dsmd
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2025_08_26_20250826_dsmd) as DSIWebFile;
-    curdir.addfile("20250826.dsmd", curfile);
-    
-    // Creating data/site/devlog/2025-08-26/demo2.gif
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2025_08_26_demo2_gif) as DSIWebFile;
-    curdir.addfile("demo2.gif", curfile);
-    
-    // Creating data/site/devlog/2025-08-26/ozzyforest.png
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2025_08_26_ozzyforest_png) as DSIWebFile;
-    curdir.addfile("ozzyforest.png", curfile);
-    
-    curdir.chmod(DSFilePerms.rx());
-    curdir = dirstack.pop();
-    // Exited data/site/devlog/2025-08-26
-        
-    // Traversing data/site/devlog/2025-09-02
-    dirstack.push(curdir);
-    curdir = curdir.mkdir('2025-09-02');
-    
-    // Creating data/site/devlog/2025-09-02/20250902.dsmd
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2025_09_02_20250902_dsmd) as DSIWebFile;
-    curdir.addfile("20250902.dsmd", curfile);
-    
-    // Creating data/site/devlog/2025-09-02/UofT.png
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2025_09_02_UofT_png) as DSIWebFile;
-    curdir.addfile("UofT.png", curfile);
-    
-    // Creating data/site/devlog/2025-09-02/UofTcampus.png
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2025_09_02_UofTcampus_png) as DSIWebFile;
-    curdir.addfile("UofTcampus.png", curfile);
-    
-    curdir.chmod(DSFilePerms.rx());
-    curdir = dirstack.pop();
-    // Exited data/site/devlog/2025-09-02
-        
-    // Traversing data/site/devlog/2026-01-25
-    dirstack.push(curdir);
-    curdir = curdir.mkdir('2026-01-25');
-    
-    // Creating data/site/devlog/2026-01-25/20260125.dsmd
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2026_01_25_20260125_dsmd) as DSIWebFile;
-    curdir.addfile("20260125.dsmd", curfile);
-    
-    // Creating data/site/devlog/2026-01-25/hyperbolicparaboloid.png
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2026_01_25_hyperbolicparaboloid_png) as DSIWebFile;
-    curdir.addfile("hyperbolicparaboloid.png", curfile);
-    
-    // Creating data/site/devlog/2026-01-25/orrery.gif
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2026_01_25_orrery_gif) as DSIWebFile;
-    curdir.addfile("orrery.gif", curfile);
-    
-    // Creating data/site/devlog/2026-01-25/transferorbit.gif
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2026_01_25_transferorbit_gif) as DSIWebFile;
-    curdir.addfile("transferorbit.gif", curfile);
-    
-    curdir.chmod(DSFilePerms.rx());
-    curdir = dirstack.pop();
-    // Exited data/site/devlog/2026-01-25
-        
-    // Traversing data/site/devlog/2026-01-30
-    dirstack.push(curdir);
-    curdir = curdir.mkdir('2026-01-30');
-    
-    // Creating data/site/devlog/2026-01-30/20260130.dsmd
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2026_01_30_20260130_dsmd) as DSIWebFile;
-    curdir.addfile("20260130.dsmd", curfile);
-    
-    // Creating data/site/devlog/2026-01-30/workingtransferorbit.gif
-    curfile = fs.createInode(rootfs_site_data_site_devlog_2026_01_30_workingtransferorbit_gif) as DSIWebFile;
-    curdir.addfile("workingtransferorbit.gif", curfile);
-    
-    curdir.chmod(DSFilePerms.rx());
-    curdir = dirstack.pop();
-    // Exited data/site/devlog/2026-01-30
-        
-    // Creating data/site/devlog/devlog.dsmd
-    curfile = fs.createInode(rootfs_site_data_site_devlog_devlog_dsmd) as DSIWebFile;
-    curdir.addfile("devlog.dsmd", curfile);
-    
-    // Creating data/site/devlog/entry-template.dsmd
-    curfile = fs.createInode(rootfs_site_data_site_devlog_entry_template_dsmd) as DSIWebFile;
-    curdir.addfile("entry-template.dsmd", curfile);
-    
-    curdir.chmod(DSFilePerms.rx());
-    curdir = dirstack.pop();
-    // Exited data/site/devlog
-        
-    // Traversing data/site/image
-    dirstack.push(curdir);
-    curdir = curdir.mkdir('image');
-    
-    // Creating data/site/image/130x46_godot.png
-    curfile = fs.createInode(rootfs_site_data_site_image_130x46_godot_png) as DSIWebFile;
-    curdir.addfile("130x46_godot.png", curfile);
-    
-    // Creating data/site/image/181x64_godot.png
-    curfile = fs.createInode(rootfs_site_data_site_image_181x64_godot_png) as DSIWebFile;
-    curdir.addfile("181x64_godot.png", curfile);
-    
-    // Creating data/site/image/caterpillar.png
-    curfile = fs.createInode(rootfs_site_data_site_image_caterpillar_png) as DSIWebFile;
-    curdir.addfile("caterpillar.png", curfile);
-    
-    curdir.chmod(DSFilePerms.rx());
-    curdir = dirstack.pop();
-    // Exited data/site/image
-        
-    // Traversing data/site/page
-    dirstack.push(curdir);
-    curdir = curdir.mkdir('page');
-    
-    // Creating data/site/page/DSADOS.dsmd
-    curfile = fs.createInode(rootfs_site_data_site_page_DSADOS_dsmd) as DSIWebFile;
-    curdir.addfile("DSADOS.dsmd", curfile);
-    
-    // Creating data/site/page/GODOT.dsmd
-    curfile = fs.createInode(rootfs_site_data_site_page_GODOT_dsmd) as DSIWebFile;
-    curdir.addfile("GODOT.dsmd", curfile);
-    
-    // Creating data/site/page/about.dsmd
-    curfile = fs.createInode(rootfs_site_data_site_page_about_dsmd) as DSIWebFile;
-    curdir.addfile("about.dsmd", curfile);
-    
-    // Creating data/site/page/concursion.dsmd
-    curfile = fs.createInode(rootfs_site_data_site_page_concursion_dsmd) as DSIWebFile;
-    curdir.addfile("concursion.dsmd", curfile);
-    
-    // Creating data/site/page/dauntless.dsmd
-    curfile = fs.createInode(rootfs_site_data_site_page_dauntless_dsmd) as DSIWebFile;
-    curdir.addfile("dauntless.dsmd", curfile);
-    
-    // Creating data/site/page/games.dsmd
-    curfile = fs.createInode(rootfs_site_data_site_page_games_dsmd) as DSIWebFile;
-    curdir.addfile("games.dsmd", curfile);
-    
-    // Creating data/site/page/index.dsmd
-    curfile = fs.createInode(rootfs_site_data_site_page_index_dsmd) as DSIWebFile;
-    curdir.addfile("index.dsmd", curfile);
-    
-    // Creating data/site/page/tech.dsmd
-    curfile = fs.createInode(rootfs_site_data_site_page_tech_dsmd) as DSIWebFile;
-    curdir.addfile("tech.dsmd", curfile);
-    
-    curdir.chmod(DSFilePerms.rx());
-    curdir = dirstack.pop();
-    // Exited data/site/page
-        
-    curdir.chmod(DSFilePerms.rx());
-    curdir = dirstack.pop();
-    // Exited data/site
-        
     curdir.chmod(DSFilePerms.rx());
     curdir = dirstack.pop();
     // Exited data
@@ -1015,6 +712,10 @@ export function buildrootfs(): DSFileSystem {
     dirstack.push(curdir);
     curdir = curdir.mkdir('etc');
     
+    // Creating etc/autoexec.dssh
+    curfile = fs.createInode(rootfs_base_etc_autoexec_dssh) as DSIWebFile;
+    curdir.addfile("autoexec.dssh", curfile);
+    
     // Creating etc/deprecated_systems_incorporated.txt
     curfile = fs.createInode(rootfs_base_etc_deprecated_systems_incorporated_txt) as DSIWebFile;
     curdir.addfile("deprecated_systems_incorporated.txt", curfile);
@@ -1022,15 +723,6 @@ export function buildrootfs(): DSFileSystem {
     // Creating etc/depsys.txt
     curfile = fs.createInode(rootfs_base_etc_depsys_txt) as DSIWebFile;
     curdir.addfile("depsys.txt", curfile);
-    
-    // Creating etc/autoexec.dssh
-    curfile = fs.createInode(rootfs_site_etc_autoexec_dssh) as DSIWebFile;
-    curdir.addfile("autoexec.dssh", curfile);
-    curfile.chmod(DSFilePerms.rx());
-    
-    // Creating etc/motd.txt
-    curfile = fs.createInode(rootfs_site_etc_motd_txt) as DSIWebFile;
-    curdir.addfile("motd.txt", curfile);
     
     curdir.chmod(DSFilePerms.rx());
     curdir = dirstack.pop();

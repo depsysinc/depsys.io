@@ -7,7 +7,7 @@ import { load_image } from "../../../lib/dsImg";
 import { DSOptionParser } from "../../../lib/dsOptionParser";
 
 export class PRDemoMouseTouch extends DSProcess {
-    sprite: import("/workspaces/depsysweb/src/dsTerminal").DSSprite;
+    sprite: import("../../../dsTerminal").DSSprite;
     touchactive: boolean = false;
 
     protected async main(): Promise<void> {

@@ -1,10 +1,10 @@
 {
-  "name": "depsysweb",
+  "name": "dsados",
   "version": "1.0.0",
-  "description": "Deprecated Systems Web Client",
+  "description": "Deprecated Systems Autonomous Distributed Operating System",
   "main": "index.js",
   "private": "true",
-  "repository": "https://github.com/depsysinc/depsysweb.git",
+  "repository": "https://github.com/depsysinc/dsados.git",
   "author": "Michael Gentili <gentili@mcpnet.ca>",
   "license": "UNLICENSED",
   "devDependencies": {
