@@ -1,8 +1,9 @@
-echo "Setting up repo"
+echo "#### Setting up repo ####"
+WORKSPACE_DIR=$PWD
 yarn install
 cd /workspaces/xterm.js/addons/addon-webgl
 yarn link
-cd /workspaces/dsados
+cd $WORKSPACE_DIR
 yarn link @xterm/addon-webgl
 
 echo "Installing AWS CLI"
@@ -13,4 +14,4 @@ rm -rf awscliv2.zip
 rm -rf ./aws
 
 echo "Hooking up AWS Credentials"
-ln -s /workspaces/depsysweb/.aws /home/node/.aws
+ln -s $WORKSPACE_DIR/.aws /home/node/.aws
