@@ -1,0 +1,8 @@
+[submodule "src/rootfs/site"]
+	path = src/rootfs/site
+	url = git@github.com:depsysinc/depsys-site.git
+	branch = main
+[submodule "cdk"]
+	path = cdk
+	url = git@github.com:depsysinc/depsys-cdk.git
+	branch = main
